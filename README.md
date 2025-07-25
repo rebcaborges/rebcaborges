@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
-📫 Contato
-E-mail: rborges.qa@gmail.com
-LinkedIn: https://www.linkedin.com/in/rebecaborgess/
+#📫 Contato
+###E-mail: rborges.qa@gmail.com
+###LinkedIn: https://www.linkedin.com/in/rebecaborgess/
 
 <!--
 **rebcaborges/rebcaborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
